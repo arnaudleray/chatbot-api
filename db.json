@@ -1,0 +1,7 @@
+{
+  "arrets": [
+    { "from": "niji", "to": "république", "time": 5 },
+    { "from": "niji", "to": "poterie", "time": 12 },
+    { "from": "niji", "to": "carrefour", "time": 15 }
+  ]
+}
